@@ -11,6 +11,7 @@
 ![](https://www.peoples.ru/character/movie/neo/neo_1.jpg)
 
 ## My hard skills:
+[![](https://static.tildacdn.com/tild3936-6335-4334-b462-343034666166/__2000_1500_1.png)](https://static.tildacdn.com/tild3936-6335-4334-b462-343034666166/__2000_1500_1.png)
 - Java Core
 - Java SE 8
 - [Git](https://github.com/pianoplayer56?tab=repositories)
