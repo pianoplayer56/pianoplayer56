@@ -4,11 +4,16 @@
 
 ![](https://www.peoples.ru/character/movie/neo/neo_1.jpg)
 
-## My hard skills:
-- Java Core
-- Java SE 8
-- [Git](https://github.com/pianoplayer56?tab=repositories)
-- Kotlin Basic
+[![trophy](https://github-profile-trophy.vercel.app/?username=pianoplayer56)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![codewars](https://www.codewars.com/users/pianoplayer56/badges/large)](https://www.codewars.com/users/pianoplayer56)  
+
+## **My hard skills:**
++ _Java Core_  
++ _Java SE 8_
++ [_Git_](https://github.com/pianoplayer56?tab=repositories) 
++ _Kotlin Basic_
++ ~~Jetpack Compose~~
  
- ## Soft skills:
+ ## **My Soft skills:**
  ### Will continue...
