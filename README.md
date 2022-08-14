@@ -22,4 +22,8 @@
 + ~~Jetpack Compose~~
  
  ## **My Soft skills:**
- ### Will continue...
+ - __communicative__
+ - __executive__
+ - __accuracy__
+ - __responsibility__
+ - __creative__
