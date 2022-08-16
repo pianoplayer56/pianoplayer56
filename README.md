@@ -21,7 +21,7 @@
 + _Kotlin Basic_
 + ~~Jetpack Compose~~
  
- ## **My Soft skills:**
+## **My Soft skills:**
  - __communicative__
  - __executive__
  - __accuracy__
